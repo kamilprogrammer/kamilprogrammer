@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamilprogrammer,
-- 👀 I’m interested in programming, Designing and Editing,
+- 👀 I’m interested in programming, Designing and Editing videos ,
 - 🌱 I’m currently learning Flask and flutter,
 - 📫 How to reach me by the email: kg0390217@gmail.com,
 - 🔬 I learned python , html, css , little of js and php;
