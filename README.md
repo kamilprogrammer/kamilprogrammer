@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamilprogrammer,
-- 👀 I’m interested in programming, Designing and Editing videos ,
-- 🌱 I’m currently learning Flask and Flutter,
+- 👀 I’m into programming applications,
+- 🌱 I’m currently learning Laravel and Flutter,
 - 📫 How to reach me by the email: kamilref00@gmail.com,
 - 🔬 I learned python , html, css , little of js and Flutter;
 
