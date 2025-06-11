@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kamel Rifai</h1>
+<h1 align="center">👋 Hi, I'm Kamel Rifai</h1>
 <h3 align="center">A passionate Software-Engineer</h3>
 <h5 align="center">Software Engineer | Certified Cybersecurity Professional | Network Security & Vulnerability Specialist</h4>
 <div align="center">
 ----------------------------------------------  
 </div>
 
-- 🔭 I’m currently working on Flutter & FastApi [Al-Bir Reports App](https://github.com/kamilprogrammer/flutter_reports_2024)
+- 🔭 I’m currently working on NestJs [Appointments-Manager](https://github.com/kamilprogrammer/Appointments-Manager)
 
-- 🌱 I’m currently learning CyberSecurity **CyberPedia && Jameel Tawelh**
-
-- 👯 I’m looking to collaborate on My Bir-Project [Al-Bir Reoprts App](https://github.com/kamilprogrammer/flutter_reports_2024)
+- 🌱 I’m currently learning CyberSecurity **Blue Team - Coding oriented**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamilprogrammer](https://github.com/kamilprogrammer)
 
-- 📫 How to reach me You can reach me using **kamilref00@gmail.com**
+- 📫 You can reach me by **kamilref00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamel-rifai-919479289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel-rifai-919479289" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamel-rifai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel-rifai-919479289" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
