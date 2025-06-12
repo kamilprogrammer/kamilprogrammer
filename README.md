@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamel
+# 👋 Hi, I'm Kamel Rifai
 
 I'm a self-driven developer passionate about **problem solving**, **system design**, and building real-world software that matters. I specialize in backend development, but I also enjoy creating immersive 3D interfaces and experimenting with new technologies.
 
