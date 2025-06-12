@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Kamel Rifai
 
-/*I'm a self-driven developer passionate about **problem solving**, **system design**, and building real-world software that matters. I specialize in backend development, but I also enjoy creating immersive 3D interfaces and experimenting with new technologies.*/
+<!---------I'm a self-driven developer passionate about **problem solving**, **system design**, and building real-world software that matters. I specialize in backend development, but I also enjoy creating immersive 3D interfaces and experimenting with new technologies. ----->
+
 I'm a backend developer passionate about building real-world systems with clean, scalable architecture. With hands-on experience in TypeScript, NestJS, and databases like PostgreSQL and MongoDB, I create APIs and real-time solutions that power smart, interactive platforms.
 
 Currently, I’m developing a full-stack hospital visualization project combining 3D models, AutoCAD plans, and live sensor data using Three.js and WebSockets — where backend logic meets frontend innovation.
@@ -8,6 +9,7 @@ Currently, I’m developing a full-stack hospital visualization project combinin
 I’ve also completed a full cybersecurity bootcamp, giving me a solid understanding of system security and infrastructure.
 
 What sets me apart? I love turning complex problems into smooth, usable solutions.
+
 Let’s connect if you're into meaningful, intelligent systems!
 
 ---
