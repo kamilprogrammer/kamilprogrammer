@@ -44,7 +44,8 @@ I'm a self-driven developer passionate about **problem solving**, **system desig
 ## 📫 Reach Me
 
 - 🌐 Website: [KamelRifai.odoo.com](https://KamelRifai.odoo.com)  
-- 💼 LinkedIn: [linkedin.com/in/kamel-rifai](https://linkedin.com/in/kamel-rifai)  
+- 💼 LinkedIn: [linkedin.com/in/kamel-rifai](https://linkedin.com/in/kamel-rifai)
+- 📫 Email: [kamilref00@gmail.com]
 
 ---
 
